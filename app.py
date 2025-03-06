@@ -116,7 +116,6 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: #aaa; font-size: 0.9rem;">
-        © 2025 Keerthana Jella . All Rights Reserved.
     </div>
     """,
     unsafe_allow_html=True,
