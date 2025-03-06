@@ -87,7 +87,7 @@ st.markdown(
 # Add a header
 st.title("📩 SMS Spam Detection")
 st.write("#### A Machine Learning App for Spam Classification")
-st.write("*Made by Keerthana Jella*")
+st.write("*Made by SAMALA AKSHAYA*")
 
 # Input text box
 st.markdown("### Enter your SMS below:")
